@@ -101,7 +101,7 @@ I build practical digital solutions by combining **software engineering, AI-powe
 
 - **SEO Intern** — *GAO Tek Inc.*  
   *Conducted keyword & backlink research, on-page optimization, and SEO/GEO technical support for high-volume B2B content.*
-- **SEO Intern** — *Takjee*  
+- **SEO expert** — *Takjee*  
   *Optimized web content discoverability across modern search engines and emerging generative AI search platforms.*
 - **AI Software Developer** — *AB Talks, India Hackathon*  
   *Architected an autonomous AI content application leveraging REST APIs, Node.js, and MongoDB.*
