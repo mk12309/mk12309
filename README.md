@@ -22,7 +22,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About 
 
 I build practical digital solutions by combining **software engineering, AI-powered applications, workflow automation, and search engine optimization (SEO & GEO)**. My focus spans machine learning, intelligent applications, cross-platform mobile apps, modern web development, and digital discoverability.
 
